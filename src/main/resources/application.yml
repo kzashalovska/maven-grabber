@@ -1,0 +1,6 @@
+app:
+    sourceprovider: https://search.maven.org/solrsearch/
+    pools:
+        maxPoolSize: 5
+        corePoolSize: 1
+        minConnectionsPerPool: 2
